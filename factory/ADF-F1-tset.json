@@ -1,0 +1,9 @@
+{
+	"name": "ADF-F1-tset",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0042168d-a3de-4627-a838-ed0dfe938f99",
+		"tenantId": "09727aa2-2e32-4665-85eb-880099c23561"
+	}
+}
