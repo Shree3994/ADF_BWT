@@ -1,0 +1,13 @@
+{
+	"name": "ls_db_f1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-5608082096645637.17.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/96bd689d-5372-434f-a77c-7eb7efeda43f/resourceGroups/RG-databricks-session/providers/Microsoft.Databricks/workspaces/RS-databricks-ws-Fromula1",
+			"existingClusterId": "0330-124319-yc0m528z"
+		}
+	}
+}
