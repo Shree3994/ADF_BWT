@@ -1,0 +1,9 @@
+{
+	"name": "ADF-BWT-F1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "471b0a5a-64a7-4737-a37d-0321eabbfa92",
+		"tenantId": "70edf028-fbeb-4510-a4aa-196f288766f9"
+	}
+}
